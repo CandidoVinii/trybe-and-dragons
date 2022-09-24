@@ -1,6 +1,6 @@
 import Battle, { PVE } from '../../src/Battle';
 import Character from '../../src/Character';
-import Monster from '../../src/Monster';
+import Monster from '../../src/Fighter/Monster';
 
 const fight = (battle: Battle) => battle.fight();
 

@@ -1,4 +1,4 @@
-import Monster from '../../src/Monster';
+import Monster from '../../src/Fighter/Monster';
 
 const monster = new Monster();
 const result = () => {

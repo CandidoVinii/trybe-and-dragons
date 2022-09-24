@@ -1,5 +1,5 @@
 import Character from '../../src/Character';
-import Monster from '../../src/Monster';
+import Monster from '../../src/Fighter/Monster';
 
 const result = () => {
   for (let j = 0; j < 1000; j++) {

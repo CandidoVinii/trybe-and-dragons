@@ -1,3 +1,3 @@
-import Monster from '../../src/Monster';
+import Monster from '../../src/Fighter/Monster';
 const m = new Monster();
 m.lifePoints = 10;
